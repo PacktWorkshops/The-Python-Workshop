@@ -10,7 +10,7 @@ class Test(unittest.TestCase):
         self.exercises = Exercise11
 
     def test(self):
-        self.assertEqual(self.exercises.temp.celcius, 0)
+        self.assertEqual(self.exercises.temp.celsius, 0)
 
         
 if __name__ == '__main__':
