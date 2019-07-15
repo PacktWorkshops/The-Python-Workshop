@@ -10,8 +10,7 @@ class Test(unittest.TestCase):
         self.exercises = Exercise11
 
     def test(self):
-        self.assertEqual(self.exercises.temp.celsius, 0)
-
+        self.assertEqual(self.exercises.list_product([-1, 2, 3]), -6)
         
 if __name__ == '__main__':
     unittest.main()

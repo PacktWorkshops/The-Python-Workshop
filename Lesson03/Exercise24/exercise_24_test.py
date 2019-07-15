@@ -6,12 +6,12 @@ class Test(unittest.TestCase):
     def setUp(self):
         # For some reason importing the notebook globally stops the tests from being registered correctly.
         # Putting the import in the setUp method appears to solve this.
-        import Exercise11
-        self.exercises = Exercise11
+        import Exercise24
+        self.exercises = Exercise24
 
     def test(self):
-        self.assertEqual(self.exercises.temp.celsius, 0)
-
+        nums = list(range(1000))
+        self.assertEqual(sum(filter(lambda x: x % 3 == 0 or x % 7 == 0, nums)), 214216)
         
 if __name__ == '__main__':
     unittest.main()
