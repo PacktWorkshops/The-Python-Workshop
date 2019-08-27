@@ -1,4 +1,4 @@
-"""This script computes the sum of the factorial of a list of numbers"""
+"""This script computes the factorial for a list of numbers"""
 
 import math
 
