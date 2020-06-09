@@ -13,6 +13,7 @@ idna==2.9
 imagesize==1.2.0
 importlib-metadata==1.6.0
 Jinja2==2.11.2
+joblib==0.15.1
 keyring==21.2.1
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
@@ -29,9 +30,11 @@ pywin32-ctypes==0.2.0
 readme-renderer==26.0
 requests==2.23.0
 requests-toolbelt==0.9.1
+scikit-learn==0.23.1
 scipy==1.4.1
 seaborn==0.10.1
 six==1.15.0
+sklearn==0.0
 snowballstemmer==2.0.0
 Sphinx==3.0.4
 sphinxcontrib-applehelp==1.0.2
@@ -40,6 +43,7 @@ sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
+threadpoolctl==2.1.0
 tqdm==4.46.1
 twine==3.1.1
 urllib3==1.25.9
