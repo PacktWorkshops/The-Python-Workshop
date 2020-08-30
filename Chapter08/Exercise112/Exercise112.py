@@ -15,7 +15,7 @@ def calculate_new_salary(salary, promised_pct, is_manager, is_good_year):
 
     # remove 10% if it was a bad year
     if not is_good_year:
-        rise -= 0.01
+        rise -= 0.1
     else:
         pass
 
