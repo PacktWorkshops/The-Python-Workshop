@@ -8,7 +8,7 @@
 This is the repository for [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Python%20Workshop.jpg" alt="The Python Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
+<a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Python%20Workshop.png" alt="The Python Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
