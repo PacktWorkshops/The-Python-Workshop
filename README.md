@@ -16,7 +16,7 @@ To get started with the project files, you'll need to:
 3. Install [Docker](https://docs.docker.com/docker-for-windows/install/)
 
 ## About The Python Workshop
-More than just a Python guide for beginners, ]The Python Workshop](https://www.amazon.com/Python-Workshop-Interactive-Approach-Learning/dp/1839218851/ref=sr_1_1?dchild=1&keywords=The%20Python%20Workshop&qid=1611065248&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop) takes you through the full spectrum of basic to advanced topics, equipping you with the skills you need to get started with data science and more. Filled with practical step-by-step examples and interactive exercises, you'll learn by doing as you grow your new Python skillset.
+More than just a Python guide for beginners, [The Python Workshop](https://www.amazon.com/Python-Workshop-Interactive-Approach-Learning/dp/1839218851/ref=sr_1_1?dchild=1&keywords=The%20Python%20Workshop&qid=1611065248&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop) takes you through the full spectrum of basic to advanced topics, equipping you with the skills you need to get started with data science and more. Filled with practical step-by-step examples and interactive exercises, you'll learn by doing as you grow your new Python skillset.
 
 ## What You Will Learn
 * Write clean and well-commented code that is easy to maintain
