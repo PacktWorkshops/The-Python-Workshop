@@ -14,7 +14,7 @@ idna==2.10
 imagesize==1.2.0
 importlib-metadata==1.7.0
 ipython-genutils==0.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jupyter-core==4.6.3
 keyring==21.4.0
 kiwisolver==1.2.0
