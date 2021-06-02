@@ -53,7 +53,7 @@ tornado==6.0.4
 tqdm==4.48.2
 traitlets==4.3.3
 twine==3.2.0
-urllib3==1.25.10
+urllib3==1.26.5
 webencodings==0.5.1
 wincertstore==0.2
 zipp==3.1.0
